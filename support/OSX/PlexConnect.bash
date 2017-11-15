@@ -4,6 +4,8 @@
 # OSX PlexConnect startup script
 #
 
+sleep 3m
+
 # Package
 APPNAME="PlexConnect.py"
 
